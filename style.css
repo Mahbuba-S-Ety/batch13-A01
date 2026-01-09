@@ -39,6 +39,7 @@ nav .menu li{
 }
 .btn:hover{
     background-color: aqua;
+    transform: scale(1.2);
 }
 nav .btn button{
     width: 132px;
